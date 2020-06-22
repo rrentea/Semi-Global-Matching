@@ -83,6 +83,9 @@ def compute_costs(left, right):
     return cost_volume
 
 
+def dummy():
+	pass
+
 def get_indices(offset, dim, direction, height):
     y_indices = []
     x_indices = []
