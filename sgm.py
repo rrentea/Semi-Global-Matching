@@ -86,6 +86,9 @@ def compute_costs(left, right):
 def dummy():
 	pass
 
+def dummy2():
+	pass
+
 def get_indices(offset, dim, direction, height):
     y_indices = []
     x_indices = []
