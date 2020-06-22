@@ -84,7 +84,7 @@ def compute_costs(left, right):
 
 
 def dummy():
-	pass
+	print("something fun")
 
 def dummy2():
 	pass
